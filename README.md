@@ -1,13 +1,4 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/PatricksCode">
-  <img align="left" alt="Patricks Code | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/patrick-coulter-0582a3211/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://patricks-portfolio.netlify.app">
-  <img align="left" alt="Patrick's Portfolio" width="22px" src="https://preview.redd.it/u5g98dwm81161.png?width=512&format=png&auto=webp&s=abe52de9b8e804d2a3ee9e00f2ca3586e9b1cdf6"/>
-</a>
 
 <br />
 
@@ -25,6 +16,17 @@ Hi, I'm [Patrick Coulter](https://patricks-portfolio.netlify.app) (He/They), a p
            Any plans for the future in coding?
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+**Connect with me:**
+<a href="https://twitter.com/PatricksCode">
+  <img align="left" alt="Patricks Code | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/patrick-coulter-0582a3211/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://patricks-portfolio.netlify.app">
+  <img align="left" alt="Patrick's Portfolio" width="22px" src="https://preview.redd.it/u5g98dwm81161.png?width=512&format=png&auto=webp&s=abe52de9b8e804d2a3ee9e00f2ca3586e9b1cdf6"/>
+</a>
 
 **Languages and Tools:**  
 
