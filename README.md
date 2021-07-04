@@ -23,10 +23,10 @@ Hi, I'm [Patrick Coulter](https://patricks-portfolio.netlify.app) (He/They), a p
   <img align="left" alt="Patricks Code | Twitter" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/patrick-coulter-0582a3211/">
-  <img align="left" alt="Abhishek's LinkedIN" height="40" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://patricks-portfolio.netlify.app">
-  <img align="left" alt="Patrick's Portfolio" height="30" width="40" src="https://preview.redd.it/u5g98dwm81161.png?width=512&format=png&auto=webp&s=abe52de9b8e804d2a3ee9e00f2ca3586e9b1cdf6"/>
+  <img align="left" alt="Patrick's Portfolio" height="40" width="40" src="https://preview.redd.it/u5g98dwm81161.png?width=512&format=png&auto=webp&s=abe52de9b8e804d2a3ee9e00f2ca3586e9b1cdf6"/>
 </a>
 </p>
 
