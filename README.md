@@ -13,6 +13,17 @@
 
 Hi, I'm [Patrick Coulter](https://patricks-portfolio.netlify.app) (He/They), a passionate self-taught web developer from Boston who's currently going for a degree in computer science. My passion for software lies with making great designs that are very responsive and clean looking.
 
+- 🔭 I’m currently working on using Python and JavaScript in building a diverse web apps to build up my portfolio.   
+
+- 🌱 I’m currently learning about how to use Python and JavaScript to build a varity of websites & apps to help me acquire new skills .
+
+- 👯 I’m looking to collaborate on anything that involves using Python or JavaScript to make websites & apps.
+
+- 💬 Ask me about: 
+           How did you get started with with coding? 
+           Why did you pick up web development?
+           Any plans for the future in coding?
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Languages and Tools:**  
