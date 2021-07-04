@@ -6,7 +6,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://patricks-portfolio.netlify.app">
-  <img align="left" alt="Patrick's Portfolio" width="25px" src="https://preview.redd.it/u5g98dwm81161.png?width=512&format=png&auto=webp&s=abe52de9b8e804d2a3ee9e00f2ca3586e9b1cdf6"/>
+  <img align="left" alt="Patrick's Portfolio" width="22px" src="https://preview.redd.it/u5g98dwm81161.png?width=512&format=png&auto=webp&s=abe52de9b8e804d2a3ee9e00f2ca3586e9b1cdf6"/>
 </a>
 
 <br />
@@ -14,11 +14,6 @@
 Hi, I'm [Patrick Coulter](https://patricks-portfolio.netlify.app) (He/They), a passionate self-taught web developer from Boston who's currently going for a degree in computer science. My passion for software lies with making great designs that are very responsive and clean looking.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-**System**
-<p align="left"> 
-    <a href="https://www.microsoft.com/en-us/windows/get-windows-10" target="_blank"> <img src="icons/windows.jpg" width="110" height="60"/> </a>
-</p>
 
 **Languages and Tools:**  
 
