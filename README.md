@@ -17,7 +17,8 @@ Hi, I'm [Patrick Coulter](https://patricks-portfolio.netlify.app) (He/They), a p
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-**Connect with me:**
+<h1 align="left">Connect with me:</h1>
+<p align="left">
 <a href="https://twitter.com/PatricksCode">
   <img align="left" alt="Patricks Code | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -27,7 +28,7 @@ Hi, I'm [Patrick Coulter](https://patricks-portfolio.netlify.app) (He/They), a p
 <a href="https://patricks-portfolio.netlify.app">
   <img align="left" alt="Patrick's Portfolio" width="22px" src="https://preview.redd.it/u5g98dwm81161.png?width=512&format=png&auto=webp&s=abe52de9b8e804d2a3ee9e00f2ca3586e9b1cdf6"/>
 </a>
-
+</p>
 **Languages and Tools:**  
 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="40"/> </a>
