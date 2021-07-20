@@ -1,45 +1,56 @@
-<h1> Hey There </h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+  <img width="50%" height="auto" src="https://i.imgur.com/gYTWhsk.png">
+</p>
+<h3 align="center">
+  Hey there, I'm <a href="https://patrickcoulter.me">Patrick Coulter</a> (He/They)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<br />
+## 🙋‍♂️ About Me
 
-Hi, I'm [Patrick Coulter](https://patricks-portfolio.netlify.app) (He/They), a passionate self-taught web developer from Boston who's currently going for a degree in computer science. My passion for software lies with making great designs that are very responsive and clean looking.
-
-- 🔭 I’m currently working on using Python and JavaScript in building a diverse array of websites & apps to build up my portfolio.   
-
-- 🌱 I’m currently learning about how to use Python and JavaScript to build a variety of websites & apps to help me acquire new skills.
-
-- 👯 I’m looking to collaborate on anything that involves using Python or JavaScript to make websites & apps.
-
-- 💬 Ask me about: 
-           How did you get started with with coding? 
-           Why did you pick up web development?
-           Any plans for the future in coding?
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://twitter.com/PatricksCode">
-  <img align="left" alt="Patricks Code | Twitter" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/patrick-coulter-0582a3211/">
-  <img align="left" alt="Abhishek's LinkedIN" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://patricks-portfolio.netlify.app">
-  <img align="left" alt="Patrick's Portfolio" height="40" width="40" src="https://preview.redd.it/u5g98dwm81161.png?width=512&format=png&auto=webp&s=abe52de9b8e804d2a3ee9e00f2ca3586e9b1cdf6"/>
-</a>
+<p>
+  🖥 Experienced Java programmer and self-taught full stack web developer.<br/>
+  👨‍💻 Been coding since the age of 14 and always been improving my skills.<br/>
+  📱 Skilled with web development, software development, graphic design, and spreadsheets.<br/>
+  🎓 Working toward a bachelor's degree in Computer Science.<br/>
+  🤖 I share developer content and my #100DaysOfCode journey on <a href="https://twitter.com/PatricksCode">Twitter</a>.<br/>
+  🌐 You can see some of my projects on <a href="https://patrickcoulter.me">my portfolio</a>.<br/>
+  🔗 Connect with me on <a href="https://www.linkedin.com/in/patrick-coulter-0582a3211/">Linkedin</a>.
 </p>
 
-<br />
-<h1>Languages and Tools: </h1>
 
-<p align="left">
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> </a>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</p>
+## 🛠️ Skills:
+
+- Languages: &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=ff69b4)
+
+- Frameworks: &nbsp;
+  ![JavaFX](https://img.shields.io/badge/-JavaFX-333333?style=flat&logo=Java&logoColor=007ACC)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+- Databases:  &nbsp;
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+
+- IDEs: &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
+
+- Other Programs: &nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
+
+
+
+## 📊 Github Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Patepic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Patepic&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Patepic's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patepic&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
