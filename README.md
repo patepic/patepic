@@ -1,14 +1,14 @@
 <h1 align="center"> 🌸 Welcome to my Profile 🌸 </h1>
-<h3> Hey, I'm Patrick and currently a 3rd year computer science student studying in the US! I'm currently working to become a full-stack developer with a major focus on web development and data science.</h3>
+<h3> Hey, I'm Patrick and currently a 4th year computer science student studying in the US! I'm currently working to become a full-stack developer with a major focus on web development or game design.</h3>
 
 ## 🐶 &nbsp;About Me
 * 🏳️‍🌈 Gender: Non-Binary
 * 🏳️‍⚧️ Pronouns: They/Them
-* 🌱 Improving: Front-end skills
-* ⚡ Intrest: Web Development, Game Design, Data Science & Blockchain
+* 🌱 Improving: Game Development Skills
+* ⚡ Hobbies: Making Minecraft Mods, impoving my Web Development skills, and learing Game Development
 * 💬 Reach out: I'm open to discuss anything, including projects
 * 📫 Email: You can email me at patrickcoulter01@gmail.com! I'll try to respond as soon as I can
-* 👨‍💻 Portfolio: My [portfolio](https://patrickcoulter.me) has a lot more detail about me. I'm open to feedback and suggestions!
+* 👨‍💻 Portfolio: My [portfolio](https://pcoulter01.github.io) has a lot more detail about me. I'm open to feedback and suggestions!
 
 ## 🤝🏻 Connect with Me
 
@@ -47,4 +47,4 @@
 ## Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Patepic's github stats](https://github-readme-stats.vercel.app/api?username=Patepic&show_icons=true&title_color=2e93f1&icon_color=2e93f1&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Patepic's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patepic&show_icons=true&title_color=2e93f1&icon_color=2e93f1&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Patepic's github stats](https://github-readme-stats.vercel.app/api?username=PCoulter01&show_icons=true&title_color=2e93f1&icon_color=2e93f1&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PCoulter01&show_icons=true&title_color=2e93f1&icon_color=2e93f1&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
