@@ -39,7 +39,7 @@ I'm Non-Binary 🏳️‍🌈 and use They/Them 🏳️‍⚧️ pronouns. <br> 
 
 # 🖥️ &nbsp;Things I use
 
-<img align="right" height="370" width="320" src="https://64.media.tumblr.com/1cf9c3dcc88f639af67b8b65f366aac0/tumblr_ot27jnPnfi1tiivhqo1_540.gif">
+<img align="right" height="320" width="320" src="https://64.media.tumblr.com/1cf9c3dcc88f639af67b8b65f366aac0/tumblr_ot27jnPnfi1tiivhqo1_540.gif">
 
 <!--PROGRAMMING LANGUAGES-->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
