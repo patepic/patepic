@@ -39,7 +39,7 @@ I'm Non-Binary 🏳️‍🌈 and use They/Them 🏳️‍⚧️ pronouns. <br> 
 
 # 🖥️ &nbsp;Things I use
 
-<img align="right" height="280" width="320" src="https://64.media.tumblr.com/1cf9c3dcc88f639af67b8b65f366aac0/tumblr_ot27jnPnfi1tiivhqo1_540.gif">
+<img align="right" height="250" width="320" src="https://64.media.tumblr.com/1cf9c3dcc88f639af67b8b65f366aac0/tumblr_ot27jnPnfi1tiivhqo1_540.gif">
 
 <!--PROGRAMMING LANGUAGES-->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -88,7 +88,7 @@ I'm Non-Binary 🏳️‍🌈 and use They/Them 🏳️‍⚧️ pronouns. <br> 
 <br>
 
 # 🤓 My Stats
-<img align="right" height="310" width="400" src="https://animesher.com/orig/1/160/1602/16026/animesher.com_nozaki-umetaro-mikoto-mikoshiba-gif-1602679.gif">
+<img align="right" height="310" width="200" src="https://animesher.com/orig/1/160/1602/16026/animesher.com_nozaki-umetaro-mikoto-mikoshiba-gif-1602679.gif">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Patepic&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Patepic" width="250">
 
