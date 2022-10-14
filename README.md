@@ -4,6 +4,13 @@
 </h1>
 <img src="https://github.com/Patepic/Patepic/blob/main/Banner.png?raw=true"></center>
 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-coulter-0582a3211/) 
+ [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/patepic)  
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCahKkSPFYLTz_NK-Hp9q1dw)  
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PatepicVT)  
+ [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@patepic?lang=en)  
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/patepic/)
+ 
 <br>
 
 # 🌸 About Me
@@ -72,19 +79,6 @@ I'm Non-Binary 🏳️‍🌈 and use They/Them 🏳️‍⚧️ pronouns. <br> 
 ![Linux](https://img.shields.io/badge/linux-%23F7DF1E.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<br>
-
-# 📧 Connect with me
-<img align="right" height="160" width="400" src="https://i.pinimg.com/originals/85/ba/a6/85baa655d71ae09f2889791e9621df19.gif">
-
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-coulter-0582a3211/) <br> 
- [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/patepic)  <br>
- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCahKkSPFYLTz_NK-Hp9q1dw)  <br>
- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PatepicVT)  <br>
- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@patepic?lang=en)  <br>
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/patepic/)
- 
 <br>
 
 # 🤓 My Stats
