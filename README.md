@@ -1,8 +1,4 @@
-<h1 align="center">👋 Hey everyone, I'm Patepic 👋 </h1> 
-
-<p align="center">
-<img src="https://th.bing.com/th/id/OIG1.UeFFKt6r5y87igtpw2Fo?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn">
-</p>
+<h1 align="center">👋 Hey everyone, I'm Patepic 👋 </h1>
 
 
 <h1>🌸 About Me</h1>
