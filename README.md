@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hey everyone, I'm Patepic 👋 
 
+
 # 🌸 About Me
 <p>
 👋 Hello! I'm a non-binary 🏳️‍🌈 individual who uses they/them pronouns 🏳️‍⚧️. I'm a multi-talented personality in the tech and gaming communities. As a full-stack / web developer, I specialize in JavaScript, React.js, and Python. I thrive in the world of web-based projects, finding the intersection of creativity and complexity truly captivating. Beyond being a software developer, I love gaming and creating art. Balancing my time between coding and community management, I'm deeply dedicated to strengthen connections and actively contributing to multiple communities.
@@ -61,4 +62,8 @@
 ![Patepic's github stats](https://github-readme-stats.vercel.app/api?username=Patepic&theme=nightowl&show_icons=true&count_private=true)
 
 ### Watch my contribution graph get eaten by the snake 🐍
-<img src="https://raw.githubusercontent.com/patepic/patepic/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patepic/patepic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patepic/patepic/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/patepic/patepic/output/github-snake.svg" />
+</picture>
