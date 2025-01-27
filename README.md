@@ -60,5 +60,5 @@
 ![Patepic's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Patepic&layout=compact&theme=nightowl)
 ![Patepic's github stats](https://github-readme-stats.vercel.app/api?username=Patepic&theme=nightowl&show_icons=true&count_private=true)
 
-# Watch my contribution graph get eaten by the snake 🐍
+### Watch my contribution graph get eaten by the snake 🐍
 <img src="https://raw.githubusercontent.com/patepic/patepic/output/snake.svg" alt="Snake animation" />
