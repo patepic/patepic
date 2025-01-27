@@ -4,6 +4,7 @@
 <p>
 👋 Hello! I'm a non-binary 🏳️‍🌈 individual who uses they/them pronouns 🏳️‍⚧️. I'm a multi-talented personality in the tech and gaming communities. As a full-stack / web developer, I specialize in JavaScript, React.js, and Python. I thrive in the world of web-based projects, finding the intersection of creativity and complexity truly captivating. Beyond being a software developer, I love gaming and creating art. Balancing my time between coding and community management, I'm deeply dedicated to strengthen connections and actively contributing to multiple communities.
 </p>
+
 # 💙 Social Media:
 
 [![Twitch Badge](https://img.shields.io/badge/Twitch-%239146FF.svg?style=plastic&logo=Twitch&logoColor=white)](https://www.twitch.tv/patepic) 
