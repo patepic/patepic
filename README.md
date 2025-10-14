@@ -1,69 +1,155 @@
-<h1 align="center">👋 Hey everyone, I'm Patepic 👋 
+# 👋 Hey everyone, I'm Patepic
 
+<img src="images/Sailor Neptune Banner.jpg" alt="Sailor Neptune Banner">
+<br><br>
 
-# 🌸 About Me
-<p>
-👋 Hello! I'm a non-binary 🏳️‍🌈 individual who uses they/them pronouns 🏳️‍⚧️. I'm a multi-talented personality in the tech and gaming communities. As a full-stack / web developer, I specialize in JavaScript, React.js, and Python. I thrive in the world of web-based projects, finding the intersection of creativity and complexity truly captivating. Beyond being a software developer, I love gaming and creating art. Balancing my time between coding and community management, I'm deeply dedicated to strengthen connections and actively contributing to multiple communities.
-</p>
+# About Me 
 
-# 💙 Social Media:
+### 🎯 Full-Stack Web Developer | MERN Stack | Pixel-Perfect Design
 
-[![Twitch Badge](https://img.shields.io/badge/Twitch-%239146FF.svg?style=plastic&logo=Twitch&logoColor=white)](https://www.twitch.tv/patepic) 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCahKkSPFYLTz_NK-Hp9q1dw) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=TikTok&logoColor=white)](https://www.tiktok.com/@patepic) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/patepic) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=X&logoColor=white)](https://twitter.com/patepicvt) 
-[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/patrick-coulter/) 
+<table>
+  <tr>
+    <td>
+      <img src="images/Miku.png" alt="miku" height="400">
+    </td>
+    <td>
+<pre>
+😄 They/Them | 💻 Web dev and coder at heart  
+✨ Skilled in JS, React, and Node building clean, responsive apps  
+🌱 Experienced with Java, Python, C++, TypeScript, and SQL  
+🦀 Learning Rust to level up my systems skills  
+🎮 Gamer, tech enthusiast, and community-driven creator  
+💡 Enjoy tackling challenging problems and experimenting with new tech  
+💻 Contributor to open-source projects and personal coding experiments  
+🎨 Passionate about UI/UX design and crafting polished user experiences  
+🌍 Love connecting with devs worldwide and sharing knowledge  
+📚 Always learning new frameworks, languages, and tools  
+🏳️‍🌈 Proud LGBTQ+ dev always happy to connect
+</pre>
+    </td>
+  </tr>
+</table>
 
-# 🛠️ Tech Stack:
-## Languages: 
+# 🛠️ My Go To Tools and Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/Astro-a545f0?style=flat&logo=astro&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-![JavaScript Badge](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript Badge](https://img.shields.io/badge/Typescript-007ACC?style=plastic&logo=typescript&logoColor=white)
-![React Badge](https://img.shields.io/badge/React.js-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3 Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![Python Badge](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![Node.js Badge](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
-![C Badge](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![SQL Badge](https://img.shields.io/badge/SQL-003B57.svg?style=plastic&logo=databricks&logoColor=white)
-![Next.js Badge](https://img.shields.io/badge/Next.js-%2320232a.svg?style=plastic&logo=next.js&logoColor=white) 
-![Chart.js Badge](https://img.shields.io/badge/Chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) 
-![MUI Badge](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white) 
-![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
-![TailwindCSS Badge](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
+# 💻 Tech Stack
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <th>Category</th>
+          <th>Technologies</th>
+        </tr>
+        <tr>
+          <td>Frontend</td>
+          <td>
+            <img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB">
+            <img src="https://img.shields.io/badge/Astro-a545f0?style=flat&logo=astro&logoColor=white">
+            <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white">
+          </td>
+        </tr>
+        <tr>
+          <td>Core</td>
+          <td>
+            <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+            <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+            <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+            <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+            <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
+            <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+            <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white">
+            <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
+          </td>
+        </tr>
+        <tr>
+          <td>Databases</td>
+          <td>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+          </td>
+        </tr>
+        <tr>
+          <td>Cloud</td>
+          <td>
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+          </td>
+        </tr>
+        <tr>
+          <td>Tools</td>
+          <td>
+            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white">
+          </td>
+        </tr>
+        <tr>
+          <td>Misc</td>
+          <td>
+            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+            <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
+            <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+            <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
+          </td>
+        </tr>
+        <tr>
+          <td>Editors</td>
+          <td>
+            <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+            <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white">
+            <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <img src="images/Rem.jpg" alt="Rem" width="50%">
+    </td>
+  </tr>
+</table>
 
-## Databases: 
+<div>
 
-![MySQL Badge](https://img.shields.io/badge/MySQL-F29111.svg?style=plastic&logo=mysql&logoColor=white) 
-![Mongodb Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+# Profile Views
+![:Patepic](https://count.getloli.com/@:Patepic?theme=love-and-deepspace)
 
-## General Tools:
-
-![Visual Studio Code Badge](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) 
-![Intellij Badge](https://img.shields.io/badge/IntelliJ-%2366595C.svg?style=plastic&logo=IntelliJIDEA&logoColor=white) 
-![Git Badge](https://img.shields.io/badge/Git-E95420?style=plastic&logo=git&logoColor=white) 
-![Github Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white) 
-![NPM Badge](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) 
-![Netlify Badge](https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
-
-## Operating Systems:
-
-![Windows Badge](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=plastic&logo=windows11&logoColor=white) 
-![Windows Server](https://custom-icon-badges.demolab.com/badge/Windows_Server-0078D6?style=plastic&logo=windows10&logoColor=white) 
-![Android Badge](https://img.shields.io/badge/Android-3DDc84.svg?style=plastic&logo=android&logoColor=white) 
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) 
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+</div>
 
 # 🤓 My Stats
-![Patepic's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Patepic&layout=compact&theme=nightowl)
-![Patepic's github stats](https://github-readme-stats.vercel.app/api?username=Patepic&theme=nightowl&show_icons=true&count_private=true)
+<table width="600">
+  <tr>
+    <td colspan="2">
+      <img src="images/Sailor Mercury.gif" alt="Sailor Mercury" width="100%" height="150">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patepic&layout=compact&theme=nightowl" alt="Patepic's Top Languages" height="200">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Patepic&theme=nightowl&show_icons=true&count_private=true" alt="Patepic's GitHub Stats" height="200">
+    </td>
+  </tr>
+</table>
 
-### Watch my contribution graph get eaten by the snake 🐍
+# My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patepic/patepic/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patepic/patepic/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/patepic/patepic/output/github-snake.svg" />
 </picture>
+
+# 🌐 Socials
+
+[![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCahKkSPFYLTz_NK-Hp9q1dw) 
+[![Twitch Badge](https://img.shields.io/badge/Twitch-%239146FF.svg?style=plastic&logo=Twitch&logoColor=white)](https://www.twitch.tv/patepic) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=TikTok&logoColor=white)](https://www.tiktok.com/@patepic) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/patepic) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=X&logoColor=white)](https://twitter.com/patepicvt)  
