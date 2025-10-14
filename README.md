@@ -1,19 +1,15 @@
 # 👋 Hey everyone, I'm Patepic
 
 <img src="images/Sailor Neptune Banner.jpg" alt="Sailor Neptune Banner">
-<br><br>
 
 # About Me 
 
 ### 🎯 Full-Stack Web Developer | MERN Stack | Pixel-Perfect Design
 
-<table>
-  <tr>
-    <td>
-      <img src="images/Miku.png" alt="miku" height="400">
-    </td>
-    <td>
-<pre>
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
+  <img src="images/Miku.png" alt="miku" height="400">
+  <div style="max-width: 600px;">
+<pre style="margin: 0;">
 😄 They/Them | 💻 Web dev and coder at heart  
 ✨ Skilled in JS, React, and Node building clean, responsive apps  
 🌱 Experienced with Java, Python, C++, TypeScript, and SQL  
@@ -26,15 +22,14 @@
 📚 Always learning new frameworks, languages, and tools  
 🏳️‍🌈 Proud LGBTQ+ dev always happy to connect
 </pre>
-    </td>
-  </tr>
-</table>
+  </div>
+</div>
 
 # 🛠️ My Go To Tools and Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/Astro-a545f0?style=flat&logo=astro&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 # 💻 Tech Stack
-<table>
+<table style="border: 0;">
   <tr>
     <td>
       <table>
@@ -110,11 +105,10 @@
       </table>
     </td>
     <td>
-      <img src="images/Rem.jpg" alt="Rem" width="50%">
+      <img src="images/Rem.jpg" alt="Rem">
     </td>
   </tr>
 </table>
-
 <div>
 
 # Profile Views
@@ -123,7 +117,7 @@
 </div>
 
 # 🤓 My Stats
-<table width="600">
+<table style="border: 0;" width="600">
   <tr>
     <td colspan="2">
       <img src="images/Sailor Mercury.gif" alt="Sailor Mercury" width="100%" height="150">
