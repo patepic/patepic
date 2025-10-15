@@ -28,7 +28,7 @@
 
 # 💻 Tech Stack
 <div>
-<img src="images/Rem.jpg" alt="Rem" align="right" height=400>
+<img src="images/Rem.jpg" alt="Rem" align="right" height=300>
 
 <h3>Languages & Frameworks</h3>
 <img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB">
