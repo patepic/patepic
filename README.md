@@ -90,4 +90,5 @@
 
 ### 🏆 GitHub Highlights
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patepic&theme=blueberry)  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Patepic&theme=blueberry) 
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patepic&theme=blueberry)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Patepic&theme=blueberry)|
+|-----|------|
