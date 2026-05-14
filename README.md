@@ -11,12 +11,6 @@
 
 ---
 
-### 🏆 GitHub Highlights
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patepic&theme=blueberry)  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Patepic&theme=blueberry) 
-
----
-
 ### 🧑🏻‍🦰💻 Professional Experience
 
 **Frontend Developer | 2+ Years Experience**  
@@ -91,3 +85,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows10&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+
+---
+
+### 🏆 GitHub Highlights
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patepic&theme=blueberry)  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Patepic&theme=blueberry) 
